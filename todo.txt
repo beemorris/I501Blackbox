@@ -1,3 +1,6 @@
 To Do:
 1. Email Johan
 2. Work on webscrapping
+
+Done:
+1. Git works on all machines. W00t!
