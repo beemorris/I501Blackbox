@@ -1,0 +1,3 @@
+To Do:
+1. Email Johan
+2. Work on webscrapping
