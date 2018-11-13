@@ -1,6 +1,8 @@
 To Do:
-1. Email Johan
-2. Work on webscrapping
+1. Run Blackbox_Webscrape code as long as can (try 7000 steps)
+2. Figure out/Define rules for Blackbox
+3. Develop/Code Model to Implement these rules
 
 Done:
 1. Git works on all machines. W00t!
+2. Webscraping Code Completed
