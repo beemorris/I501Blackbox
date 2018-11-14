@@ -18,7 +18,8 @@ def blackbox_webscrape(sim_num, endstep,intervals):
     current_step = 1 # starting step #
 
     url = "https://www.informatics.indiana.edu/jbollen/I501F18/blackbox/BlackBox_N.php" # Blackbox URL
-    driver = webdriver.Chrome('C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver
+    driver = webdriver.Chrome('C:/Users/Kyrie/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Desktop
+    #driver = webdriver.Chrome('C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Laptop
     
     driver.get(url) # Get URL
     
@@ -26,7 +27,7 @@ def blackbox_webscrape(sim_num, endstep,intervals):
     driver.find_element_by_name("cycles").send_keys(intervals) # Set to chosen interval amount
         
     while current_step < endstep: # Run until end step 
-        
+
         soup = BeautifulSoup(driver.page_source) # read page source
         
         table1 = soup.find_all('table',id="system")[0] # find blackbox table in source
@@ -34,6 +35,7 @@ def blackbox_webscrape(sim_num, endstep,intervals):
         find_step = soup.find_all('p') # find location of current step in source
         current_step = int(find_step[3].contents[0][13:]) # Finds current step in integer format
         
+        #Find all of the numbers in the 20 x 20 grid in the page source and store to my_table
         rows = table1.findChildren(['th', 'tr'])
         
         my_table = []
@@ -52,22 +54,24 @@ def blackbox_webscrape(sim_num, endstep,intervals):
         
         my_table2 = np.reshape(my_table, (20,20)).astype(int) # Reshape to 20 x 20 array
         
+        # Save array to text file with simulation # and step # in filename
         output_file = 'sim' +str(sim_num)+ '_step' + str(current_step) + '_int' + str(intervals) + '.txt'
-        
         np.savetxt(output_file, my_table2, delimiter=',',fmt= '%d') 
         
+        # Print status
         print('Simulation ' + str(sim_num) + ': Step ' + str(current_step) + ' file saved.')
         
         time.sleep(5) # wait 5 seconds to allow for saving file
         
+        # Click next button on page
         button = driver.find_element(By.XPATH, '//button[text()="Next n Step"]')
-        
         button.click()
         
         time.sleep(5) # wait 5 seconds to wait after clicking Next Step
         
-            
-blackbox_webscrape(1, 10, 1)    # blackbox_webscrape(sim_num, endstep,intervals)          
+
+# Initiates the blackbox function (can tweak the inputs of simulation number, end step and the intervals)            
+blackbox_webscrape(2, 7000, 1)    # blackbox_webscrape(sim_num, endstep,intervals)          
             
             
             
