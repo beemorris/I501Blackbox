@@ -71,7 +71,7 @@ def blackbox_webscrape(sim_num, endstep,intervals):
         
 
 # Initiates the blackbox function (can tweak the inputs of simulation number, end step and the intervals)            
-blackbox_webscrape(2, 7000, 1)    # blackbox_webscrape(sim_num, endstep,intervals)          
+blackbox_webscrape(3, 7000, 1)    # blackbox_webscrape(sim_num, endstep,intervals)          
             
             
             
