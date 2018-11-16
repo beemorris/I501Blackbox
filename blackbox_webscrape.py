@@ -18,8 +18,9 @@ def blackbox_webscrape(sim_num, endstep,intervals):
     current_step = 1 # starting step #
 
     url = "https://www.informatics.indiana.edu/jbollen/I501F18/blackbox/BlackBox_N.php" # Blackbox URL
-    driver = webdriver.Chrome('C:/Users/Kyrie/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Desktop
+    #driver = webdriver.Chrome('C:/Users/Kyrie/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Desktop
     #driver = webdriver.Chrome('C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Laptop
+    driver = webdriver.Firefox(executable_path='/usr/local/bin/geckodriver') #this is for Becca's Macbook. Comment this out and do the other drivers for Kyrie.
     
     driver.get(url) # Get URL
     
