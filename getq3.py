@@ -2,9 +2,7 @@
 """
 Created on Tue Nov 13 17:18:25 2018
 
-@author: kyrie
-
-@editor: Becca
+@author: kyrie, becca
 """
 
 # read in input array (through text file or with website?)
@@ -23,11 +21,11 @@ def get_q3():
 			quad2_matrix = full_matrix[0:10, 0:10]  # top left
 			quad3_matrix = full_matrix[10:20, 0:10]  # bottom left
 			quad4_matrix = full_matrix[10:20, 10:20]  # bottom right
-	print(quad3_matrix)
+			print(quad3_matrix)
 
 
 get_q3()
-#get_input_data('C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/archive/test 3/sim1_step1_int1.txt')
+
 
 
 
