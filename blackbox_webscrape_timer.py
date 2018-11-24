@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Sat Nov 24 14:38:30 2018
+
+@author: Kyrie
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Tue Nov 13 11:57:02 2018
 
 Blackbox Webscrape
@@ -12,10 +19,27 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import numpy as np
+from datetime import datetime
+from threading import Timer
 
 
-def blackbox_webscrape(sim_num, endstep,intervals):
+# Calculates time until 12:01am 
+x=datetime.today()
+y=x.replace(day=x.day+1, hour=0, minute=1, second=0, microsecond=0)
+#y=x.replace(day=x.day+0, hour=14, minute=47, second=0, microsecond=0)
+delta_t=y-x
+secs=delta_t.seconds+1
+
+
+def blackbox_webscrape():
     current_step = 1 # starting step #
+    
+    # Manually adjust simulation number, endsteps and intervals here
+    sim_num = 7
+    endstep = 7000
+    intervals = 1
+    
+    print("Starting to run code. The date/time is: " + str(x))
 
     url = "https://www.informatics.indiana.edu/jbollen/I501F18/blackbox/BlackBox_N.php" # Blackbox URL
     driver = webdriver.Chrome('C:/Users/Kyrie/GitHub/I501Blackbox/chromedriver')  # Location of chrome driver on Kyrie's Desktop
@@ -69,14 +93,14 @@ def blackbox_webscrape(sim_num, endstep,intervals):
         button.click()
         
         time.sleep(5) # wait 5 seconds to wait after clicking Next Step
-        
-
-# Initiates the blackbox function (can tweak the inputs of simulation number, end step and the intervals)            
-blackbox_webscrape(7, 7000, 1)    # blackbox_webscrape(sim_num, endstep,intervals)          
+              
             
+# Initiates the blackbox function to start at 1 minute after midnight (can tweak the inputs of simulation number, end step and the intervals)          
+t = Timer(secs, blackbox_webscrape) # t = Timer(secs, webscrape_blackbox)
+print('Will run Blackbox webscraping code in ' + str(secs) + ' seconds.')
+t.start()            
             
-            
-            
+# Close web browser if need to cancel code            
             
             
             

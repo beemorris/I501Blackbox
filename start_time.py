@@ -11,13 +11,13 @@ from datetime import datetime
 from threading import Timer
 
 x=datetime.today()
-y=x.replace(day=x.day+0, hour=7, minute=0, second=0, microsecond=0)
+y=x.replace(day=x.day+0, hour=14, minute=15, second=0, microsecond=0)
 delta_t=y-x
 
 secs=delta_t.seconds+1
 
 def hello_world():
-    print("Hello world. it's "+ str(x))
+    print("Hello world. it's " + str(x))
 
 t = Timer(secs, hello_world) # t = Timer(secs, webscrape_blackbox)
-t.start()s
+t.start()
