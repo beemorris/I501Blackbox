@@ -1,0 +1,6 @@
+Step 886 to Step 887Index: (3,3)
+Quadrant: 2
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+________________________________
