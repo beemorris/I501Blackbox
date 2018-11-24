@@ -6,19 +6,18 @@ Created on Tue Nov 13 17:18:25 2018
 """
 
 import numpy as np
+import matplotlib
 import matplotlib.pyplot as plt
 import os
 
+# Need to annotate on plots and save to PDFs
 
 path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/'
 count = 0
-#prev = [] 
-#current = []
 
 for filename in sorted(os.listdir(path), key=lambda x: int(x.replace("_int1.txt", "").replace('sim3_step',''))): 
     
-    
-    
+
     if filename.endswith(".txt"):  
         count += 1
         if count < len(os.listdir(path)):
@@ -52,9 +51,9 @@ for filename in sorted(os.listdir(path), key=lambda x: int(x.replace("_int1.txt"
                     elif i >=10 and j >=10:
                         quad = 4
                     
-                    text_file = open(filename[0:4]+'.txt', 'w')
-                    text_file.write('Step ' + filename[9:-9] + ' to Step '+ str(int(filename[9:-9])+1))
-                    text_file.write('Index: (' + str(i) + ',' + str(j) + ')')
+                    text_file = open(filename[0:4]+'.txt', 'a+')
+                    text_file.write('\nStep ' + filename[9:-9] + ' to Step '+ str(int(filename[9:-9])+1))
+                    text_file.write('\nIndex: (' + str(i) + ',' + str(j) + ')')
                     text_file.write('\nQuadrant: ' + str(quad) )
                     text_file.write('\nPrevious #: ' + str(prev[i][j]))
                     text_file.write('\nCurrent #: ' + str(current[i][j]))
@@ -70,45 +69,35 @@ for filename in sorted(os.listdir(path), key=lambda x: int(x.replace("_int1.txt"
         
         fig1 = plt.figure()
         plt.imshow(change,cmap='bwr') #where 1 is red - change, blue is zero - unchanged
+        plt.title('Changes from Step ' + filename[9:-9] + ' to Step '+ str(int(filename[9:-9])+1))
         
         ax = plt.gca();   
 
         # Major ticks
-        ax.set_xticks(np.arange(0, 20, 1));
-        ax.set_yticks(np.arange(0, 20, 1));
+        ax.set_xticks(np.arange(.5, 20, 1));
+        ax.set_yticks(np.arange(.5, 20, 1));
         
         # Labels for major ticks
         ax.set_xticklabels(np.arange(1, 20, 1));
         ax.set_yticklabels(np.arange(1, 20, 1));
 
+        # Create offset transform by 5 points in x direction
+        offset_x = matplotlib.transforms.ScaledTranslation(-5/72., 0/72., fig1.dpi_scale_trans) # dx = -5/72.; dy = 0/72.
+        offset_y = matplotlib.transforms.ScaledTranslation(0/72, 5/72, fig1.dpi_scale_trans)
         
-        # Minor ticks
-        ax.set_xticks(np.arange(-.5, 20, 1), minor=True);
-        ax.set_yticks(np.arange(-.5, 20, 1), minor=True);
+        # apply offset transform to all x ticklabels.
+        for label in ax.xaxis.get_majorticklabels():
+            label.set_transform(label.get_transform() + offset_x)
+            
+        # apply offset transform to all y ticklabels.
+        for label in ax.yaxis.get_majorticklabels():
+            label.set_transform(label.get_transform() + offset_y)
         
         # Gridlines based on minor ticks
         ax.grid(which='minor', color='w', linestyle='-', linewidth=2)
 
         plt.show()
 
-        
-'''
-data = np.random.rand(10, 10) * 20
-
-# create discrete colormap
-cmap = colors.ListedColormap(['red', 'blue'])
-bounds = [0,10,20]
-norm = colors.BoundaryNorm(bounds, cmap.N)
-
-fig, ax = plt.subplots()
-ax.imshow(data, cmap=cmap, norm=norm)
-
-# draw gridlines
-ax.grid(which='major', axis='both', linestyle='-', color='k', linewidth=2)
-ax.set_xticks(np.arange(-.5, 10, 1));
-ax.set_yticks(np.arange(-.5, 10, 1));
-
-plt.show()'''
 
 
 
