@@ -12,8 +12,8 @@ import numpy as np
 import os
 
 def get_q3():
-    #path = '/Users/bee/Library/Mobile Documents/com~apple~CloudDocs/IU/Fall2018/I501/Blackbox/I501Blackbox/Simulations/' #For Becca's computer
-    path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/' # for Kyrie's Laptop
+    path = '/Users/bee/Library/Mobile Documents/com~apple~CloudDocs/IU/Fall2018/I501/Blackbox/I501Blackbox/Simulation 3' #For Becca's computer
+    #path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/' # for Kyrie's Laptop
     
     for file in sorted(os.listdir(path), key=lambda x: int(x.replace("_int1.txt", "").replace('sim3_step',''))): 
         if file.endswith('.txt'):
