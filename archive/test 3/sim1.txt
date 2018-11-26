@@ -1,0 +1,6476 @@
+
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 1 to Step 2
+Index: (18,1)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 1 to Step 2
+Index: (9,6)
+Quadrant: 2
+Previous #: 1.0
+Current #: 6.0
+Delta: -5.0
+______________
+Step 1 to Step 2
+Index: (0,12)
+Quadrant: 3
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 1 to Step 2
+Index: (11,17)
+Quadrant: 4
+Previous #: 9.0
+Current #: 7.0
+Delta: 2.0
+______________
+Step 2 to Step 3
+Index: (19,1)
+Quadrant: 1
+Previous #: 3.0
+Current #: 9.0
+Delta: -6.0
+______________
+Step 2 to Step 3
+Index: (0,3)
+Quadrant: 2
+Previous #: 9.0
+Current #: 5.0
+Delta: 4.0
+______________
+Step 2 to Step 3
+Index: (14,15)
+Quadrant: 4
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 2 to Step 3
+Index: (3,17)
+Quadrant: 3
+Previous #: 8.0
+Current #: 5.0
+Delta: 3.0
+______________
+Step 3 to Step 4
+Index: (6,5)
+Quadrant: 2
+Previous #: 2.0
+Current #: 0.0
+Delta: 2.0
+______________
+Step 3 to Step 4
+Index: (14,5)
+Quadrant: 1
+Previous #: 8.0
+Current #: 9.0
+Delta: -1.0
+______________
+Step 3 to Step 4
+Index: (1,13)
+Quadrant: 3
+Previous #: 9.0
+Current #: 4.0
+Delta: 5.0
+______________
+Step 4 to Step 5
+Index: (8,3)
+Quadrant: 2
+Previous #: 4.0
+Current #: 8.0
+Delta: -4.0
+______________
+Step 4 to Step 5
+Index: (12,6)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 5 to Step 6
+Index: (10,1)
+Quadrant: 1
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 5 to Step 6
+Index: (0,5)
+Quadrant: 2
+Previous #: 5.0
+Current #: 2.0
+Delta: 3.0
+______________
+Step 5 to Step 6
+Index: (0,12)
+Quadrant: 3
+Previous #: 3.0
+Current #: 7.0
+Delta: -4.0
+______________
+Step 5 to Step 6
+Index: (19,14)
+Quadrant: 4
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 6 to Step 7
+Index: (1,5)
+Quadrant: 2
+Previous #: 9.0
+Current #: 3.0
+Delta: 6.0
+______________
+Step 6 to Step 7
+Index: (15,8)
+Quadrant: 1
+Previous #: 2.0
+Current #: 9.0
+Delta: -7.0
+______________
+Step 6 to Step 7
+Index: (12,13)
+Quadrant: 4
+Previous #: 8.0
+Current #: 7.0
+Delta: 1.0
+______________
+Step 6 to Step 7
+Index: (8,19)
+Quadrant: 3
+Previous #: 8.0
+Current #: 3.0
+Delta: 5.0
+______________
+Step 7 to Step 8
+Index: (17,3)
+Quadrant: 1
+Previous #: 7.0
+Current #: 9.0
+Delta: -2.0
+______________
+Step 7 to Step 8
+Index: (4,9)
+Quadrant: 2
+Previous #: 9.0
+Current #: 0.0
+Delta: 9.0
+______________
+Step 7 to Step 8
+Index: (14,15)
+Quadrant: 4
+Previous #: 5.0
+Current #: 3.0
+Delta: 2.0
+______________
+Step 7 to Step 8
+Index: (5,17)
+Quadrant: 3
+Previous #: 0.0
+Current #: 1.0
+Delta: -1.0
+______________
+Step 8 to Step 9
+Index: (18,0)
+Quadrant: 1
+Previous #: 5.0
+Current #: 9.0
+Delta: -4.0
+______________
+Step 8 to Step 9
+Index: (7,8)
+Quadrant: 2
+Previous #: 2.0
+Current #: 5.0
+Delta: -3.0
+______________
+Step 8 to Step 9
+Index: (16,12)
+Quadrant: 4
+Previous #: 6.0
+Current #: 1.0
+Delta: 5.0
+______________
+Step 8 to Step 9
+Index: (6,16)
+Quadrant: 3
+Previous #: 8.0
+Current #: 0.0
+Delta: 8.0
+______________
+Step 9 to Step 10
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 9 to Step 10
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 9 to Step 10
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 9 to Step 10
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
+Step 10 to Step 11
+Index: (7,2)
+Quadrant: 2
+Previous #: 4.0
+Current #: 0.0
+Delta: 4.0
+______________
+Step 10 to Step 11
+Index: (19,2)
+Quadrant: 1
+Previous #: 1.0
+Current #: 9.0
+Delta: -8.0
+______________
+Step 10 to Step 11
+Index: (16,12)
+Quadrant: 4
+Previous #: 1.0
+Current #: 0.0
+Delta: 1.0
+______________
+Step 10 to Step 11
+Index: (2,15)
+Quadrant: 3
+Previous #: 3.0
+Current #: 5.0
+Delta: -2.0
+______________
