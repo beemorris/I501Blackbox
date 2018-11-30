@@ -116,8 +116,12 @@ def plot_num_changes(path,sim):
 
 # Modify Directory path and Simulation # 
 #path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/archive/test 3/' # short file test
-path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/'
-sim = 3 # 1
+    
+#path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/'
+#sim = 3 # 1
+
+path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 7 (6484 Steps)/'
+sim = 7 # 1
 
 # Run the Program and get figure information for PDF 
 f1 = plot_num_changes(path,sim)  
