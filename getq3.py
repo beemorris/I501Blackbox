@@ -15,6 +15,7 @@ def get_q3(sim):
 	path = '/Users/bee/I501Blackbox/Simulation 3 (4447 Steps)/' #For Becca's computer
 	#path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulations/'  # for Kyrie's Laptop
 	#path = 'C:/Users/kyrie/OneDrive/Documents/GitHub/I501Blackbox/Simulation 3 (4447 Steps)/'  # for Kyrie's Laptop
+	avg_file = '/Users/bee/I501Blackbox/'
 
 	for file in sorted(os.listdir(path), key=lambda x: int(x.replace('_int1.txt', '').replace('sim3_step', ''))):
 	#for file in sorted(os.listdir(path), key=lambda x: int(x.replace('_int1.txt', '').replace('sim' + str(sim) + '_step', ''))):
@@ -23,9 +24,9 @@ def get_q3(sim):
 			#quad1_matrix = full_matrix[0:10, 10:20]  # top right
 			quad3_matrix = full_matrix[10:20, 0:10]  # bottom left
 			#quad4_matrix = full_matrix[10:20, 10:20]  # bottom right
-			print(file)
-			print(quad3_matrix)  # Prints the quad 3 matrix for each file (might need to do something different to visualize better)
-
+			#print(file)
+			#print(quad3_matrix)  # Prints the quad 3 matrix for each file (might need to do something different to visualize better)
+			print(np.mean(quad3_matrix)) #this gets the acg of q3 for each step
 
 '''
 sim_num = [1,2,3] #
